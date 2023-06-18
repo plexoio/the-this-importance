@@ -1,3 +1,10 @@
+/**
+ * Remember:
+ * $('p').click(function () {
+    $(this).children('a').css('background-color','yellow'); // use of 'this' and all children 'a' & chaining
+});
+ */
+
 $(document).ready(function () {
     // general effects
 
